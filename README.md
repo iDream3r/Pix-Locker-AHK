@@ -1,5 +1,5 @@
 ## Pix-Locker-AHK
-Lock your computer and take a picture of intruders. When this script is activated, any inputs (mouse or keyboard) will trigger the integrated camera. It will take a picture, save it, and lock any further use of the inputs.
+Lock your computer and take a picture of intruders. When this script is activated, any inputs (mouse or keyboard) will trigger the integrated camera. It will take a picture, save it, and lock any further use of the inputs.<br />
 This script was done by iDream3r
 
 
@@ -9,7 +9,7 @@ To use it you'll need to download and instal AutoHotkey.
 
 __IMPORTANT__ : You'll need to use the __GDI+ library__. Place it by default in the same directory as the script. If you have it elsewhere or if you already have it, you should edit the path in the .ahk file.
 
-__IMPORTANT__ : To use the Microsoft integrated camera you'll need to create a shortcut of the camera application and place it in a dedicated directory. By default the script use __"C:\WinApps\Cam"__, but you can edit it in the .ahk file.
+__IMPORTANT__ : To use the Microsoft integrated camera you'll need to create a shortcut of the camera application and place it in a dedicated directory. By default the script use __"C:\WinApps\Cam"__, but you can edit it in the .ahk file.<br />
 __HOW TO__ : You can create a shortcut of the camera application by clicking on the Windows icon in your toolbar, searching for "Camera" and dragging the icon on your desktop. Then create a new folder in "C:\" call it "WinApps" and rename the shortcut "Cam" (for a better compatibility with all languages).
 You should have "C:\WinApps\Cam"
 
@@ -27,7 +27,7 @@ Note : Be carefull if you change the HotKeys, most aren't recognized when BlockI
 
 ### How it run
 
-With this you can protect your computer from intruders, and even take a pictures of them.
+With this you can protect your computer from intruders, and even take a pictures of them.<br />
 When this script is activated, any inputs (mouse or keyboard) will trigger the integrated Microsoft camera. It will take a picture, save it in the previous folder of the script directory with a date/hour name in .png, and then lock any further use of the inputs until deactivated.
 
 
