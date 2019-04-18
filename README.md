@@ -7,7 +7,7 @@ This script was done by iDream3r
 Works with Windows.
 To use it you'll need to download and instal AutoHotkey.
 
-__IMPORTANT__ : You'll need to use the __GDI+ library__. Place it by default in the same directory as the script. If you have it elsewhere or if you already have it, you should edit the path in the .ahk file.
+__IMPORTANT__ : You'll need to use the __GDI+ library (Gdip_all.ahk)__. Place it by default in the same directory as the script. If you have it elsewhere or if you already have it, you should edit the path in the .ahk file.
 
 __IMPORTANT__ : To use the Microsoft integrated camera you'll need to create a shortcut of the camera application and place it in a dedicated directory. By default the script use __"C:\WinApps\Cam"__, but you can edit it in the .ahk file.<br />
 __HOW TO__ : You can create a shortcut of the camera application by clicking on the Windows icon in your toolbar, searching for "Camera" and dragging the icon on your desktop. Then create a new folder in "C:\" call it "WinApps" and rename the shortcut "Cam" (for a better compatibility with all languages).
