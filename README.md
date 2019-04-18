@@ -4,7 +4,7 @@ This script was done by iDream3r
 
 
 ### Requirments
-Works with Windows.
+Works with Windows 10.
 To use it you'll need to download and instal AutoHotkey.
 
 __IMPORTANT__ : You'll need to use the __GDI+ library (Gdip_all.ahk)__. Place it by default in the same directory as the script. If you have it elsewhere or if you already have it, you should edit the path in the .ahk file.
